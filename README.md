@@ -19,5 +19,5 @@ Este é um script Python que realiza ataques de negação de serviço distribuí
    Siga as instruções no console para inserir o alvo, o IP falso e a porta.
    O script iniciará uma animação e realizará os ataques DDoS ao alvo.
    
-   ##Aviso legal
+   ## Aviso legal
    Este script é fornecido apenas para fins educacionais. O uso deste script para ataques DDoS sem permissão é estritamente proibido e ilegal. Certifique-se de utilizar este script apenas em ambientes controlados e com a devida autorização.Lembre-se de sempre agir de maneira ética e dentro dos limites da lei.
